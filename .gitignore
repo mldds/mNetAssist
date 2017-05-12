@@ -3,6 +3,7 @@
 Makefile
 mNetAssist
 moc_*
+qrc_*
 ui_*.h
 *~
 core
